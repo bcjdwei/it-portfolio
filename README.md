@@ -9,6 +9,11 @@ IT Support & Network Technician based in Surrey, BC, Canada.
 - Network cabling, fibre, patch panels, server rooms
 - Helpdesk and terminal support, hardware repair
 
+## Education
+
+- MSc in Chinese Environmental Studies — Hong Kong Metropolitan University, 2021–2022
+- Diploma in Computer and Applications — Jiaying University, China, 2001–2004
+
 ## What I am learning now
 
 - Microsoft 365 / Entra ID / Intune administration (MD-102 path)
