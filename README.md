@@ -6,7 +6,9 @@ IT Support & Network Technician based in Surrey, BC, Canada.
 
 - Systems integration and on-site IT support
 - Active Directory domain management; installed and ran Windows Server + Exchange (on-premises)
-- Network cabling, fibre, patch panels, server rooms
+- Small data centre build-outs: server room layout, racks, UPS, HVAC/CRAC, structured cabling and fibre
+- Network troubleshooting (DHCP, DNS, VLANs, site-to-site VPN; Huawei, H3C, TP-Link, D-Link)
+- Virtualization (Hyper-V, VMware) — basic VM provisioning
 - Helpdesk and terminal support, hardware repair
 
 ## Education
