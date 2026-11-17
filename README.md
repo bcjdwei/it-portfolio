@@ -14,7 +14,8 @@ IT Support & Network Technician based in Surrey, BC, Canada.
 ## Education
 
 - MSc in Chinese Environmental Studies — Hong Kong Metropolitan University, 2021–2022
-- Diploma in Computer and Applications — Jiaying University, China, 2001–2004
+- Bachelor of Engineering in Electrical Engineering and Automation — University of Electronic Science and Technology of China, 2020–2023
+- Diploma in Computers and Applications — Jiaying University, China, 2001–2004
 
 ## What I am learning now
 
